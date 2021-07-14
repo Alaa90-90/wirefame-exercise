@@ -1,0 +1,24 @@
+header{
+
+    background-color: gray;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+header div img{
+padding-top: 15px;
+padding-left: 100px;
+float: left;
+}
+header nav ul li{
+    padding-top: 40px;
+    padding-right: 200px;
+    float: right;
+    margin-right: 15px;}
+
+ul{
+    list-style-type: none ;
+}
+main section img{
+    align-self:center ;
+}
