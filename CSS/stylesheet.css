@@ -1,0 +1,97 @@
+
+
+header{
+    background-color: gray;
+    height: 100px;
+    width: 1160px;
+    margin-left: 200px;
+    margin-bottom: 35px;
+
+}
+
+header img{
+padding-top: 15px;
+padding-left: 100px;
+
+}
+
+nav{ 
+    padding-left: 300px;
+}
+
+nav ul{
+    position: relative;
+    margin-top: -8%;
+}
+
+nav ul li{
+    list-style-type: none ;
+    display: inline-block;
+    padding-right: 10%;
+
+}
+
+#hero{
+
+    margin-left: 300px;
+    margin-bottom: 35px;
+}
+#mg1{
+    
+
+    margin-left: 300px;
+}
+#mg2{
+    padding-left: 28px;
+
+}
+#mg3{
+    padding-left: 28px;
+
+}
+#picleft{
+margin-top: 35px;
+padding-left: 300px;
+
+}
+#txtright{
+    padding-left: 800px;
+    padding-right: 200px;
+margin-top: -420px;
+}
+button{
+background-color: gray;
+height: 50px;
+width: 250px;
+margin-left: 800px;
+padding-bottom: 10px;
+border-style: groove;
+
+}
+footer{
+background-color: grey;
+height: 150px;
+width: 1160px;
+margin-left: 200px;
+margin-top: 50px;
+
+}
+/* main section img{
+    margin-left: 150px;
+
+}  */
+
+
+/* main{
+font-family: Arial;
+background-color: bisque;
+} */
+/* footer{
+height: 150px;
+    background-color: gray;
+} */
+/* #three{
+
+    padding-top: 15px;
+    padding-bottom: 35px;
+} */
